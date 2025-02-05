@@ -9,16 +9,6 @@
 <h1>📄 WebMed</h1>
 <p>Platformă web dedicată serviciilor medicale</p>
 
-<div class="dropdown">
-    <button class="dropbtn">Categorii</button>
-    <div class="dropdown-content">
-        <a href="#descriere">Descrierea Temului</a>
-        <a href="#contributie">Contribuția Originală</a>
-        <a href="#pacienti">Pentru Pacienți</a>
-        <a href="#medici">Pentru Medici</a>
-    </div>
-</div>
-
 <h2 id="descriere">📝 Descrierea temei</h2>
 <p>Crearea unei platforme web adaptate pentru orice tip de serviciu medical, destinată să îmbunătățească accesul la informații esențiale pentru pacienți, medici, administratori și dispeceri. Scopul principal este de a oferi o experiență digitală integrată, personalizată și sigură. Se vor utiliza tehnologii precum JavaScript, HTML, CSS, MySQL și Node.js pentru implementare.</p>
 
